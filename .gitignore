@@ -3,3 +3,4 @@ __pycache__
 Pipfile*
 wandb*
 prepare.sh
+t5-doctor/
