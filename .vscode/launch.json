@@ -25,8 +25,8 @@
                 "--qg_format=highlight_qg_format",
                 "--max_source_length=512",
                 "--max_target_length=32",
-                "--train_file_name=doctor_train_data_e2e_qg_t5.pt",
-                "--valid_file_name=doctor_valid_data_e2e_qg_t5.pt",
+                "--train_file_name=doctor/doctor_train_data_e2e_qg_t52.pt",
+                "--valid_file_name=doctor/doctor_valid_data_e2e_qg_t52.pt",
             ]
         },
         {
@@ -43,8 +43,8 @@
                 "--qg_format=highlight_qg_format",
                 "--max_source_length=512",
                 "--max_target_length=32",
-                "--train_file_name=patient_train_data_e2e_qg_t5.pt",
-                "--valid_file_name=patient_valid_data_e2e_qg_t5.pt",
+                "--train_file_name=patient/patient_train_data_e2e_qg_t52.pt",
+                "--valid_file_name=patient/patient_valid_data_e2e_qg_t52.pt",
             ]
         }
     ]
