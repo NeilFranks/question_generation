@@ -1,4 +1,3 @@
-from pipelines import pipeline
 from run_qg import run_qg
 
 args_dict = {
@@ -21,15 +20,3 @@ args_dict = {
 }
 # start training
 run_qg(args_dict)
-
-nlp = pipeline("e2e-qg", model="t5-patient")
-print("Symptom: %s\nQuestion: %s" %
-      ("Gtfo get me a new doctor", nlp("anorexia")))
-print(nlp("hemorrhoid"))
-print(nlp("blood in stool"))
-print(nlp("abdominal pain"))
-print(nlp("diarrhea"))
-print(nlp("hiccup,counter-current"))
-print(nlp("restlessness"))
-print(nlp("helicobacter infection"))
-print(nlp("heat"))
