@@ -43,10 +43,10 @@ gastrointestinal dysfunction	What's the problem? Is it intestinal inflammation o
 fatigue	What's the reason for the stimuli? I don't know what to eat.
 perianal pain	What's the reason for the pain in the stomach? Answer me.
 menstrual disorders	What's the reason why you don't want to eat?
-counter-current	What do you mean, "anti-acid heater"? What's going on?
+counter-current	What do you mean, anti-acid heater? What's going on?
 reflux	What kind of medicine do you take when you're cold?
 edema	What's the reason why you don't want to eat?
-anemia	What do you mean, "anemia"?
+anemia	What do you mean, anemia?
 backache	What's the reason for the backache?
 headache	What do you want to do with the stomach?
 numb limbs	My hands are numb. It's neurology, isn't it?
@@ -70,7 +70,7 @@ abdominal distention	What kind of situation is it when you can't excrete?
 weight down	What's the reason for the negative weight? What do we do?
 bloating	What's the reason for the stimuli? I don't know what I'm talking about.
 back pain	What's the reason for the backache?
-chills	What do you mean, "alcoholic" or something, when you're cold? What's the reason?
+chills	What do you mean, alcoholic or something, when you're cold? What's the reason?
 difficult eating	What about anorexic pickle?
 stuffy nose	What's the reason for the nausea?
 loose stool	What causes the symptoms of the gastrointestinal inflammation?
@@ -443,7 +443,7 @@ counter-current,back pain	What's with the back pain? Is the treatment the same a
 heartburn,reflux,stomach ache,hiccup	What are the symptoms of hiccups? Answer me a question: What's the problem when you eat?
 nausea,gastrointestinal discomfort	What if I don't throw up when I'm sick of my stomach?
 gastrointestinal discomfort,diarrhea,abdominal distention,bowel sound	What kind of medication do you take when you have a diarrhea?
-heat,counter-current	What do you mean, "anti-acid heater"? What's wrong with it?
+heat,counter-current	What do you mean, anti-acid heater? What's wrong with it?
 anemia,diarrhea,abdominal pain	What causes anemia? Is it possible to have a stomachache when you have an intestinal disorder?
 abdominal pain,back pain	What's the reason for the pain on the left side of the stomach? Answer me a question, I don't know what's going on.
 reflux,nausea	What's the reason for the gastric fever?

@@ -5,3 +5,4 @@ wandb*
 prepare.sh
 t5-doctor/
 t5-patient/
+.idea/
