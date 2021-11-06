@@ -11,7 +11,7 @@ args_dict = {
     "per_device_eval_batch_size": 32,
     "gradient_accumulation_steps": 8,
     "learning_rate": 1e-4,
-    "num_train_epochs": 900,
+    "num_train_epochs": 100,
     "seed": 42,
     "do_train": True,
     "do_eval": True,

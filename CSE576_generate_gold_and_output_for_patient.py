@@ -30,8 +30,8 @@ with open("CSE576_gold_and_generated_for_patient.tsv", 'w', encoding="utf-8") as
             raise Exception("empty")
 
         generated_sentences = nlp(symptom)
-        if len(generated_sentences) > 1:
-            raise Exception("length")
+        # if len(generated_sentences) > 1:
+        #     raise Exception("length")
 
         generated_sentence = generated_sentences[0]
         if generated_sentence.strip == "":
